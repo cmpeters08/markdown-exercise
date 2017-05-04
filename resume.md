@@ -1,4 +1,4 @@
-# Carolyn M. Peters testing 1, 2, 3
+# Carolyn M. Peters 
 
 ### Work Expirence 
 **Barista** _Starbucks Corporation_   
@@ -6,7 +6,7 @@ April 2015 to Present
 Responsibilities include:
 * Provide excellent customer service by learning the names and preferences of repeat customers  
 * Give exceptional attention to order detail ensuring all items are correctly entered and prepared  
-* Retain up-to- date knowledge of Starbucks’ extensive product list to assist customers  
+* Retain up-to- date knowledge of Starbucks extensive product list to assist customers  
 
 September 2014 to April 2015 **Customer Service Specialist** _J.C. Penney Corporation_  
 
