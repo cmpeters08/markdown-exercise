@@ -1,4 +1,4 @@
-# Carolyn M. Peters
+# Carolyn M. Peters testing 1, 2, 3
 
 ### Work Expirence 
 **Barista** _Starbucks Corporation_   
@@ -22,6 +22,6 @@ Frieda, Braun, and British Red Cross_
 October 2012 to December 2013 **Customer Service Cashier** _Sears Brands LLC_  
 * Trained and supervised six new employees
 
-###Education
+### Education
 **University of Missouri - St. Louis**  
 Bachelor of Arts in Communication (_cum laude_) 
